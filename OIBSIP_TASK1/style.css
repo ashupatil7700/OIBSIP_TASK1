@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(238, 145, 5);
+    align-items:center;
+  
+}
+
+
+.cal{
+    width: 500px;
+    margin:25% 25%;
+    height:20%;
+    background-color: rgb(14, 13, 13);
+    border-radius:20px;
+    padding: 44px;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+input[type=text]{
+
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius:30px;
+    font-family: 'Varela Round',sans-serif ;
+    color:rgb(28, 26, 26);
+
+    
+}
+
+input[type=button]{
+    width:24%;
+    padding:20px;
+    font-size:22px;
+    color:rgb(25, 24, 25);
+    border-radius:500px; 
+    background-color: rgb(239, 232, 232);
+}
+
+#col{
+    background-color: #088cf1;
+    color: black;
+    font-weight: 800;
+    font-size: 22px;
+}
+#bracket{
+    background-color: rgb(255, 68, 0);
+    color: rgb(250, 245, 245);
+    font-weight: 800;
+    font-size: 22px;
+
+}
+#del{
+    background-color: rgb(255, 0, 0);
+    font-size: 22px;
+}
